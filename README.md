@@ -84,12 +84,14 @@ Durante o desenvolvimento deste projeto, pude aprimorar habilidades de:
 ## 👩‍💻 Autores
 
 **Giulia Acsa dos Santos Muniz**
+
 Estudante do curso técnico em Desenvolvimento de Sistemas — ETEC de Bragança Paulista
 
 📫 LinkedIn: 
 www.linkedin.com/in/giulia-acsa-dos-santos-muniz-b5bb13267
 
 **Gabriel de Farias Miranda**
+
 Estudante do curso técnico em Desenvolvimento de Sistemas — ETEC de Bragança Paulista
 
 📫 LinkedIn:
